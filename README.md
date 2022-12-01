@@ -8,4 +8,5 @@ Dork?
 - "Dashboard V.2" + "Kiaalap - Kiaalap Admin Template"
 - "LOGIN USER LOGIN ADMIN / PETUGAS" site:id
 - "Sistem Informasi Arsip Digital" intext:LOGIN ADMIN site:sch.id
+
 (more? kembangin lagi sendiri, use your brain)
