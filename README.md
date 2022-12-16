@@ -2,16 +2,22 @@
 CSRF Vulnerability at Sistem Informasi Arsip Digital (SIADIG)
 
 Exploit?
+
 *Add Petugas*
 - /admin/petugas_aksi.php
 - /admin/petugas_update.php
 
 *Add Arsip*
 - /petugas/arsip_aksi.php
+
 cara akses shell dari csrf add arsip
+
 www.yourtarget.sch.id/arsip/
+
 or
+
 www.yourtarget.sch.id/[path]/arsip
+
 tambahkan /arsip dibagian belakang url target
 
 jika redir ke login page atau minta lu buat login dulu kemungkinan
