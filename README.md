@@ -10,14 +10,11 @@ Exploit?
 *Add Arsip*
 - /petugas/arsip_aksi.php
 
+
 cara akses shell dari csrf add arsip
-
 www.yourtarget.sch.id/arsip/
-
 or
-
 www.yourtarget.sch.id/[path]/arsip
-
 tambahkan /arsip dibagian belakang url target
 
 jika redir ke login page atau minta lu buat login dulu kemungkinan
