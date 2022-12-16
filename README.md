@@ -6,6 +6,7 @@ Exploit?
 *Add Petugas*
 - /admin/petugas_aksi.php
 - /admin/petugas_update.php
+
 jika redir kemnungkinan vuln, tinggal login saja 
 dan ganti hak akses menjadi petugas / pengurus / guru (setiap web beda beda)
 
